@@ -17,6 +17,7 @@
 
 
 ## 🧠 My Focus Areas
+- Backend Development
 - Web Development
 - Cybersecurity Fundamentals
 - Python Automation
