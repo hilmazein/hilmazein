@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=learning%2C%20building%2C%20fixing%20what%20i%20break" alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=hilmazein">
-    <img src="https://komarev.com/ghpvc/?username=hilmazein&label=Profile%20views&color=00FFFF&style=flat-square" alt="hilmazein's profile views" />
-  </a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
