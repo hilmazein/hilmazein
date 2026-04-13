@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Alfina%20Hilma%20Zein&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Final-Year%20Informatics%20Student%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Learning%2C%20building%2C%20and%20occasionally%20fixing%20what%20I%20just%20broke%F0%9F%98%8A%F0%9F%91%80%F0%9F%90%BB%F0%9F%A6%8B%F0%9F%98%AD%F0%9F%98%82" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Learning%2C%20building%2C%20and%20occasionally%20fixing%20what%20I%20just%20broke" alt="Typing introduction" />
 </p>
 
 <p align="center">
