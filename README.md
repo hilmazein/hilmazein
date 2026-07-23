@@ -8,12 +8,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🌱 I'm currently developing skills in Machine Learning, Data Analysis, and Full-Stack Development
-- 👯 I'm open to collaboration on Python, automation projects, and real-world problem-solving projects
-- 🤝 I'm continuously improving my skills in ML, system development, and cybersecurity fundamentals
-- 💬 Ask me about Python, and beginner-friendly projects
-- 🛠️ Experienced with Linux, Ubuntu, and basic cybersecurity tools
-- ⚡ I believe technology should solve real problems, not just exist
+- I'm currently developing skills in Machine Learning, Data Analysis, and Full-Stack Development
+- I'm open to collaboration on Python, automation projects, and real-world problem-solving projects
+- I'm continuously improving my skills in ML, system development, and cybersecurity fundamentals
+- Ask me about Python, and beginner-friendly projects
+- Experienced with Linux, Ubuntu, and basic cybersecurity tools
+- I believe technology should solve real problems, not just exist
 
 
 ## 🧠 My Focus Areas
